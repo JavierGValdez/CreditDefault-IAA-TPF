@@ -32,3 +32,4 @@ Variable objetivo: Default en octubre (20% de casos positivos)
 Javier Gonzalo Valdez - jgvaldez@unsam-bue.edu.ar
 Bruno Inguanzo - brunoinguanzo14@gmail.com
 Matías Alejandro Vergara Vicencio - mavergaravicencio@estudiantes.unsam.edu.ar
+
