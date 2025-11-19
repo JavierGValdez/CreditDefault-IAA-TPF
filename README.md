@@ -1,5 +1,5 @@
 ﻿# 💳 De la Deuda al Dato: ML para Predecir Defaults
-Modelo predictivo a partir de datos de clientes de una entidad crediticia dentro del contexto de una crisis en Taiwán (año 2005) bajo el marco del <u><strong>Trabajo Práctico Final</strong></u>
+Modelo predictivo a partir de datos de clientes de una entidad crediticia dentro del contexto de una crisis en Taiwán (año 2005) bajo el marco del <u><strong>Trabajo Práctico Final</strong></u> para la materia *Introducción al Aprendizaje Automatico* (LCD-UNSAM)
 
 # 📚​ Contexto 
 En 2005, Taiwán enfrentó una crisis crediticia que expuso la necesidad crítica de detectar tempranamente los impagos por parte de los clientes de los bancos. Las causas pueden deberse
@@ -39,6 +39,7 @@ También se incluye la línea de crédito de la persona y un estado binario para
 - Javier Gonzalo Valdez - jgvaldez@unsam-bue.edu.ar
 - Bruno Inguanzo - brunoinguanzo14@gmail.com
 - Matías Alejandro Vergara Vicencio - mavergaravicencio@estudiantes.unsam.edu.ar
+
 
 
 
