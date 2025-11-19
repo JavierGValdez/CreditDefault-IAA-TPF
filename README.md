@@ -12,6 +12,7 @@ El impago de las tarjetas de crédito resulta ser un problema de causa mayor par
 - **💸 Pérdidas financieras significativas**,
 - **📉 Deterioro de la cartera crediticia**, 
 - **⚠️ Riesgo sistémico acumulativo** 
+
 y entre otros, impacto en el flujo de caja que afecta y acorta directamente la capacidad de otorgar nuevas líneas de crédito, y además consecuente de infringir la reputación del banco, deteriorando la gestión del mismo.
 
 Y por las mismas razones, es necesario y esencial para los bancos detectar con anticipación el segmento de clientes con probabilidades de entrar en mora. Con estos patrones de identificación, se logra direccionar las nuevas medidas de prevención para este grupo fervientemente, siendo así mejorando la cota de decisión a la hora de brindar un nuevo crédito al cliente. 
@@ -38,6 +39,7 @@ También se incluye la línea de crédito de la persona y un estado binario para
 - Javier Gonzalo Valdez - jgvaldez@unsam-bue.edu.ar
 - Bruno Inguanzo - brunoinguanzo14@gmail.com
 - Matías Alejandro Vergara Vicencio - mavergaravicencio@estudiantes.unsam.edu.ar
+
 
 
 
